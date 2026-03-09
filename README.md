@@ -9,6 +9,8 @@ We strongly believe in minimizing unnecessary data collection and preventing the
 No tracking, no analytics, and no background data collection are performed by this extension.
 
 
+# ⚙️ Usage / Uso
+
 https://github.com/user-attachments/assets/8d184a9e-b7e3-4db7-966b-fa4d58d424ea
 
 
@@ -19,7 +21,6 @@ On Linux:
 git clone https://github.com/Ander-Velc/FLG-Chrome-Extension.git
 ```
 On Windows:
-
 
 Download the file.zip: https://github.com/Ander-Velc/FLG-Firefox-Extension/archive/refs/heads/main.zip
 
